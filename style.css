@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+   height: 100vh;
+   font-size: 70px;
+   background-image: url("default.avif");
+   text-shadow: #c2e20e;
+   text-align: center;
+   font-weight: bolder;
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   transition: all ease .50s;
+  }
